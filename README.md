@@ -109,6 +109,8 @@ Or for local USB-based installs, place it alongside a `meta-data` file (can be e
 ---
 
 ## 🤝 Contributing
+If someone wants to be a developer on this project. Join in.
+
 
 Pull requests are welcome. For larger changes, please open an issue first to discuss what you'd like to change.
 
